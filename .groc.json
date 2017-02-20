@@ -1,0 +1,5 @@
+{
+  "glob": ["**/*.js", "README.md"],
+  "except": ["node_modules/**/*.js", "test/**/*.js", "doc/**/*.*"],
+  "out" : "doc"
+}

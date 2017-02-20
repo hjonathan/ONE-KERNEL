@@ -1,0 +1,7 @@
+doc/*
+.settings/*
+node_modules/*
+coverage/*
+npm_debug.log
+*.flags.json
+.idea/
